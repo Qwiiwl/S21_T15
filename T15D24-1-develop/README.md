@@ -1,5 +1,5 @@
 # T15D24-T16D25 
-
+Этот код рабочий, он выполняет все парты с задания, можете использовать его как пример, но не советую полностью копироватьЮ ибо вертер код завалил
 You can find some useful video materials in the "Projects (Media)" section on the Platform.
 
 ![Final project.](misc/eng/images/day15_door.png)
